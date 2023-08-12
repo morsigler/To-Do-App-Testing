@@ -4,7 +4,7 @@
 2. **Optional** - If you want to edit or write new tests download and install visual studio code latest version (https://code.visualstudio.com/download). For run purpose only there is no need in IDE.
 3. Clone this repo to your local directory.
 4. If using VS code:
-   
+      - Open project in VS code
       - Open new terminal in VS code
    
    If **not** using VS code:
