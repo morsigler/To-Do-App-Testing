@@ -1,11 +1,11 @@
 # To-Do-App-Testing
 ## Project requirements
 1. Verify node.js installed (on cmd/terminal run node -v). If not, install node.js latest version (https://nodejs.org/en/download)
-2. *Optional* - If you want to edit or write new tests download and install visual studio code latest version (https://code.visualstudio.com/download). For run purpose only there is no need in IDE.
+2. **Optional** - If you want to edit or write new tests download and install visual studio code latest version (https://code.visualstudio.com/download). For run purpose only there is no need in IDE.
 3. Clone this repo to your local directory.
 4. If using VS code:
        open new terminal in VS code
-   IF *not* using VS code:
+   IF **not** using VS code:
        Open cmd/terminal and navigate to your local directory where the project is cloned
 6. Run npm install --save-dev typescript (You may need to restart VS code after installation)
 7. Run npm install cypress
