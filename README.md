@@ -8,5 +8,5 @@ Project requirements
 6. Run npm install cypress
 
 How to run tests
-1.From VS terminal > run npx cypress open
-2.Run any spec file
+1. From VS terminal > run npx cypress open
+2. Run any spec file
