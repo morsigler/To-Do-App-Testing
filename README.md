@@ -8,10 +8,10 @@
    IF **not** using VS code:
        Open cmd/terminal and navigate to your local directory where the project is cloned
 6. Run ```npm install --save-dev typescript``` (You may need to restart VS code after installation)
-7. Run npm install cypress
+7. Run ```npm install cypress```
 
 ## How to run tests
-1. From cmd/termial/VS code terminal > run npx cypress open
+1. From cmd/termial/VS code terminal > run ```npx cypress open```
 2. Cypress window should open > Click E2E testing
 3. Choose chrome > click start testing
 4. Cypress window should be opened with specs files
