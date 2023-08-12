@@ -1,7 +1,7 @@
 # To-Do-App-Testing
 Project requirements
 1. Verify node.js installed (on cmd/terminal run node -v). If not, install node.js latest version
-2. Download visual studio code latest version (https://code.visualstudio.com/download )
+2. Download and install visual studio code latest version (https://code.visualstudio.com/download )
 3. Clone this repo and open in VS code
 4. Open new terminal from VS code
 5. Run npm install --save-dev typescript (You may need to restart VS code after installation)
