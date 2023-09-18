@@ -4,8 +4,8 @@ Example Cypress and TypeScript testing automation project.
 The project runs on : https://todomvc.com/examples/react/#/  
 The tests are from this STD: https://docs.google.com/spreadsheets/d/1j3yRV4BbWYAyItUxO2SfiZTnTeNWkPvhKjGIt546lIk/edit?usp=sharing  
 Implemented tests are:  
-      - New task text bar - Add Task - Special chars 
-      - New task text bar - Toggle all 
+      - New task text bar - Add Task - Special chars  
+      - New task text bar - Toggle all   
       - Task in list - Delete 
 
 ## Project requirements
